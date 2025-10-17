@@ -8,7 +8,11 @@ global state Management
 ## This project is styled using bootstrap 
 
 :magic_wand: Uses **Redux** store to manage counter state globally  
+
 :dress: Real-time UI updates using `useSelector`
+
 :dart: action dispatching using `useDispatch`
+
 :bookmark: Clean and responsive Bootstrap Layout
+
 :page_with_curl: Organized component structure
