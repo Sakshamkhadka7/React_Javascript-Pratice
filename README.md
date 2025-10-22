@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite .
 
 A simple React web Based app **React + Redux** project that demonstrates how to uses `react-redux` hooks(`useSelector` and `useDispatch`) for
 global state Management
